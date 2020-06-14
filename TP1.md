@@ -10,7 +10,7 @@ C'est via GitHub que vous me soumettrez votre travail lors des différents TP.
 
 Cliquer sur [cette invitation](https://classroom.github.com/a/er4wm2UG) (il y en aura une par TP).
 
-Il faudra alors vous créer un compte GitHub si vous n'en avez pas déjà un, puis autoriser GitHub Classroom (cela vous sera demandé lorsque vous cliquerez sur le lien d'invitation). Et enfin, il faudra associer votre compte à votre nom (en cliquant dessus dans la liste déroulante), puis cliquer sur "Accept this assignment" (bouton vert).
+Il faudra alors vous créer un compte GitHub, si vous n'en avez pas déjà un, puis autoriser GitHub Classroom (cela vous sera demandé lorsque vous cliquerez sur le lien d'invitation). Et enfin, il faudra associer votre compte à votre nom (en cliquant dessus dans la liste déroulante), puis cliquer sur "Accept this assignment" (bouton vert).
 
 ![inscription](images/inscription.png)
 
