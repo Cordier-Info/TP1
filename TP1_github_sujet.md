@@ -26,7 +26,7 @@ Il faudra alors vous créer un compte GitHub si vous n'en avez pas déjà un, pu
 
 Je serai alors notifié de votre arrivée et je validerai cet exercice.
 
-La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du TP. C'est le dossier qui contient une copie de l'énoncé, et les fichiers `.md` et `.py` que vous allez devoir compléter (tout se trouve sous l'onglet **code**). Un seul autre onglet va nous intéresser : **Pull requests**. C'est là que vous intéragirai avec moi pour faire valider vos exercices.
+La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du TP. C'est le dossier qui contient une copie de l'énoncé, et les fichiers `.md` et `.py` que vous allez devoir compléter (tout se trouve sous l'onglet **code**). Un seul autre onglet va nous intéresser : **Pull requests**. C'est là que vous intéragirai avec moi pour faire valider vos exercices.
 
 **Attention : tant que vous n'aurez pas passez ces étapes, rien d'autre ne pourra être validé !**
 
@@ -38,9 +38,7 @@ Au lycée, l'environnement de travail (IDE) préinstallé est `EduPython` (pas g
 
 Deux types de rendu vous seront demandés en TP :
 
-- **du texte** (réponse argumentée à une question, calculs, démonstration, etc.)<br>Vous écrirez votre texte dans le fichier appelé `exo_x.md` dans le repo GitHub du TP.<br>Ce sont des fichiers Markdown dont la syntaxe de base est très simple ([pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) contenant les principales commandes) et qui permettent d'intégrer des formules mathématiques via Latex. Par exemple, en écrivant `$\int_{0}^\infty e^{-x^2}dx = \frac{\sqrt{\pi}}{2}$`,  vous obtenez :<br>$\displaystyle\int_{0}^\infty\rm{e}^{-x^2}d x=\frac{\sqrt{\pi}}{2}$
-
-  Vous pourrez par exemple utiliser cet [éditeur d'équation en ligne](http://visualmatheditor.equatheque.net/VisualMathEditor.html?codeType=Latex&encloseAllFormula=false&style=aguas&localType=fr_FR) pour convertir vos formules en Latex si besoin... (pas d'inquiétude, la majorité du temps, il y aura juste besoin d'écrire 2, 3 trucs ne nécessitant aucune utilisation de la syntaxe markdown ou de Latex)
+- **du texte** (réponse argumentée à une question, calculs, démonstration, etc.)<br>Vous écrirez votre texte dans le fichier appelé `exo_x.md` dans le repo GitHub du TP.<br>Ce sont des fichiers Markdown dont la syntaxe de base est très simple ([pdf](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) contenant les principales commandes).
 
 - **du code**<br>Vous écrirez votre code ou modifierez un programme donné dans le fichier `exo_x.py`.
 
