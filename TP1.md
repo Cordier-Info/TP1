@@ -16,7 +16,7 @@ Chaque exercice validé rapporte des points dans la moyenne d'info du 1<sup>er</
 
 ### Exercice 1 :
 
-Cliquer sur l'invitation suivante : https://classroom.github.com/a/RwhV385V (il y en aura une par TP).
+Cliquer sur [cette invitation](https://classroom.github.com/a/er4wm2UG) (il y en aura une par TP).
 
 Il faudra alors vous créer un compte GitHub si vous n'en avez pas déjà un, puis autoriser GitHub Classroom (cela vous sera demandé lorsque vous cliquerez sur le lien d'invitation) et enfin, il faudra cliquer sur "Accept this assignment" (bouton vert).
 
