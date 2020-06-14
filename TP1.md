@@ -57,6 +57,7 @@ Toute modification dans le repository est sauvegardée par un **commit** (voir l
 **:heavy_check_mark: Pour valider un exercice :**
 
 >il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande me mentionnant (**@Cordier-Info**) pour que je sois averti. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?"<br>
+>
 >Il y a alors deux possibilités : 
 >
 >- soit je vous demande une modification par le même canal :hand::question:
@@ -65,6 +66,8 @@ Toute modification dans le repository est sauvegardée par un **commit** (voir l
 
 
 ---
+
+
 
 
 
