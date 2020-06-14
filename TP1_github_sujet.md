@@ -44,7 +44,7 @@ Deux types de rendu vous seront demandés en TP :
 
 Toute modification dans le repository peut être sauvegardée grâce à un **commit** (voir la capture d'écran). Vos "commits" sont la trace de votre investissement et de votre progression dans la réalisation des tâches affectées (pour ce semestre d'info ou dans la vie professionnelle d'un développeur).
 
-
+<br>
 
 **Pour valider un exercice :**
 >il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?" Si vous ne me mentionnez pas  (**@Cordier-Info**), je ne serai pas averti. Il y a alors deux possibilités : soit je vous demande une modification par le même canal, soit je valide.
