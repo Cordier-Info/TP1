@@ -1,6 +1,4 @@
-# TP1 : mise en place
-
-## GitHub
+# TP1 : GitHub
 
 GitHub est un outil de collaboration aujourd'hui incontournable en programmation informatique.
 
@@ -67,7 +65,7 @@ Toute modification dans le repository est sauvegardée par un **commit** (voir l
 >Il y a alors deux possibilités : 
 >
 >- soit je vous demande une modification par le même canal :hand::question:
->- soit je valide :+1: :white_check_mark:
+>- soit je valide :+1: :white_check_mark:
 
 
 
