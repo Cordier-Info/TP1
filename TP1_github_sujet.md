@@ -14,7 +14,7 @@ Un exercice peut avoir 3 statuts :
 
 Chaque exercice validé rapporte des points dans la moyenne d'info du 1<sup>er</sup> semestre.
 
-
+<br>
 
 ### Exercice 1 :
 
@@ -30,7 +30,7 @@ La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du T
 
 **Attention : tant que vous n'aurez pas passez ces étapes, rien d'autre ne pourra être validé !**
 
-
+<br>
 
 Pour la suite, il va falloir exécuter des programmes Python. 
 
@@ -47,8 +47,8 @@ Toute modification dans le repository peut être sauvegardée grâce à un **com
 <br>
 
 **Pour valider un exercice :**
->il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?" Si vous ne me mentionnez pas  (**@Cordier-Info**), je ne serai pas averti. Il y a alors deux possibilités : soit je vous demande une modification par le même canal, soit je valide.
-
+>il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande me mentionnant (**@Cordier-Info**) pour que je sois averti. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?"<br>
+>Il y a alors deux possibilités : soit je vous demande une modification par le même canal, soit je valide.
 
 <br>
 
