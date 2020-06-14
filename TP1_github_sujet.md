@@ -46,8 +46,7 @@ Toute modification dans le repository peut être sauvegardée grâce à un **com
 
 
 
->**Pour valider un exercice :**
->
+**Pour valider un exercice :**
 >il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?" Si vous ne me mentionnez pas  (**@Cordier-Info**), je ne serai pas averti. Il y a alors deux possibilités : soit je vous demande une modification par le même canal, soit je valide.
 
 
