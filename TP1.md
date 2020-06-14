@@ -32,7 +32,11 @@ Je serai alors notifié de votre arrivée et je validerai cet exercice.
 
 La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du TP. C'est le dossier qui contient une copie de l'énoncé, et les fichiers `.md` et `.py` que vous allez devoir compléter (tout se trouve sous l'onglet **code**). Un seul autre onglet va nous intéresser : **Pull requests**. C'est là que vous intéragirai avec moi pour faire valider vos exercices.
 
+---
+
 **:bangbang:Attention:bangbang: : tant que vous n'aurez pas passé ces étapes, rien d'autre ne pourra être validé !**
+
+---
 
 <br>
 
