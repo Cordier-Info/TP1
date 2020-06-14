@@ -56,7 +56,7 @@ Deux types de rendu vous seront demandés en TP :
 
 Toute modification dans le repository est sauvegardée par un **commit** (voir la capture d'écran). Vos "commits" sont la trace de votre investissement et de votre progression dans la réalisation des tâches affectées (pour ce semestre d'info ou dans la vie professionnelle d'un développeur).
 
-![inscription](images/éditionetpullrequest.png)
+![inscription](images/editionetpullrequest.png)
 
 
 
