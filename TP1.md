@@ -24,17 +24,21 @@ Il faudra alors vous créer un compte GitHub si vous n'en avez pas déjà un, pu
 
 ![inscription](images/inscription1.png)
 
+Dernière étape : il faut associer votre compte GitHub en cliquant sur votre nom dans la liste déroulante.
+
 Je serai alors notifié de votre arrivée et je validerai cet exercice.
 
-La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du TP. C'est le dossier qui contient une copie de l'énoncé, et les fichiers `.md` et `.py` que vous allez devoir compléter (tout se trouve sous l'onglet **code**). Un seul autre onglet va nous intéresser : **Pull requests**. C'est là que vous intéragirai avec moi pour faire valider vos exercices.
+<br>
 
-**Attention : tant que vous n'aurez pas passez ces étapes, rien d'autre ne pourra être validé !**
+La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du TP. C'est le dossier qui contient une copie de l'énoncé, et les fichiers `.md` et `.py` que vous allez devoir compléter (tout ce trouve sous l'onglet **code**). Un seul autre onglet va nous intéresser : **Pull requests**. C'est là que vous intéragirai avec moi pour faire valider vos exercices.
+
+**:bangbang:Attention:bangbang: : tant que vous n'aurez pas passé ces étapes, rien d'autre ne pourra être validé !**
 
 <br>
 
 Pour la suite, il va falloir exécuter des programmes Python. 
 
-Au lycée, l'environnement de travail (IDE) préinstallé est `EduPython` (pas génial mais il fait le travail). Si vous avez un ordinateur personnel, je vous conseil d'installer [Pyzo](https://pyzo.org) car c'est l'IDE utilisé aux oraux de Centrale (Maths 2 et Physique 2). Mais le meilleur IDE pour un scientifique est probablement [Spyder](https://www.spyder-ide.org). Pour dépanner vous pouvez utiliser la solution en ligne [Trinket](http://cordier-phychi.toile-libre.org/Info/trinket.html) ou Repl.it (en lien sur la repo GitHub du TP).
+Au lycée, l'environnement de travail (IDE) préinstallé est `EduPython` (pas génial, mais il fait le travail). Si vous avez un ordinateur personnel, je vous conseille d'installer [Pyzo](https://pyzo.org), car c'est l'IDE utilisé aux oraux de Centrale (Maths 2 et Physique 2). Mais le meilleur IDE pour un scientifique est probablement [Spyder](https://www.spyder-ide.org). Pour dépanner, vous pouvez utiliser la solution en ligne [Trinket](http://cordier-phychi.toile-libre.org/Info/trinket.html) ou Repl.it (en lien sur la repo GitHub du TP).
 
 Deux types de rendu vous seront demandés en TP :
 
@@ -42,12 +46,12 @@ Deux types de rendu vous seront demandés en TP :
 
 - **du code**<br>Vous écrirez votre code ou modifierez un programme donné dans le fichier `exo_x.py`.
 
-Toute modification dans le repository peut être sauvegardée grâce à un **commit** (voir la capture d'écran). Vos "commits" sont la trace de votre investissement et de votre progression dans la réalisation des tâches affectées (pour ce semestre d'info ou dans la vie professionnelle d'un développeur).
+Toute modification dans le repository est sauvegardée par un **commit** (voir la capture d'écran). Vos "commits" sont la trace de votre investissement et de votre progression dans la réalisation des tâches affectées (pour ce semestre d'info ou dans la vie professionnelle d'un développeur).
 
-![inscription](images/éditionetpullrequest.png)**Pour valider un exercice :**
+![inscription](images/éditionetpullrequest.png)**:heavy_check_mark: Pour valider un exercice :**
 
 >il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande me mentionnant (**@Cordier-Info**) pour que je sois averti. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?"<br>
->Il y a alors deux possibilités : soit je vous demande une modification par le même canal, soit je valide.
+>Il y a alors deux possibilités : soit je vous demande une modification par le même canal :hand::question:, soit je valide :+1: :white_check_mark:.
 
 <br>
 
