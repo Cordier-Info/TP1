@@ -52,7 +52,7 @@ Toute modification dans le repository peut être sauvegardée grâce à un **com
 
 
 
-###Exercice 2 :
+### Exercice 2 :
 
 Exécuter le code `example.py` puis copier le résultat dans le fichier `exo_2.md`.
 
@@ -60,7 +60,7 @@ Commiter puis me demander une validation.
 
 
 
-###Exercice 3 :
+### Exercice 3 :
 
 Modifier le code de `exo_3.py` pour qu'il affiche les carrés des entiers de 1 à 20.
 
