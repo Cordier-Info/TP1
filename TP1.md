@@ -2,15 +2,7 @@
 
 GitHub est un outil de collaboration aujourd'hui incontournable en programmation informatique.
 
-C'est via GitHub que vous me soumettrez votre travail des différents TP.
-
-Un exercice peut avoir 3 statuts :
-
-- non validé
-- validé sous condition de modification indiquée dans GitHub ("Pull request")
-- validé
-
-Chaque exercice validé rapporte des points dans la moyenne d'info du 1<sup>er</sup> semestre.
+C'est via GitHub que vous me soumettrez votre travail lors des différents TP.
 
 <br>
 
@@ -66,6 +58,8 @@ Toute modification dans le repository est sauvegardée par un **commit** (voir l
 >
 >- soit je vous demande une modification par le même canal :hand::question:
 >- soit je valide :+1: :white_check_mark:
+>
+>Chaque exercice validé rapporte des points dans la moyenne d'info du 1<sup>er</sup> semestre.
 
 
 
