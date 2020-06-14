@@ -20,7 +20,7 @@ Cliquer sur l'invitation suivante : https://classroom.github.com/a/RwhV385V (il 
 
 Il faudra alors vous créer un compte GitHub si vous n'en avez pas déjà un, puis autoriser GitHub Classroom (cela vous sera demandé lorsque vous cliquerez sur le lien d'invitation) et enfin, il faudra cliquer sur "Accept this assignment" (bouton vert).
 
-![inscription](images/inscription1.png)
+<img src="images/inscription1.png" alt="" width="500"/>
 
 Dernière étape : il faut associer votre compte GitHub en cliquant sur votre nom dans la liste déroulante.
 
