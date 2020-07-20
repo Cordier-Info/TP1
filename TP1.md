@@ -1,6 +1,6 @@
 # TP1 : GitHub
 
-GitHub est un outil de collaboration aujourd'hui incontournable en programmation informatique.
+GitHub est un outil de collaboration aujourd'hui incontournable en programmation.
 
 C'est via GitHub que vous me soumettrez votre travail lors des différents TP.
 
@@ -34,7 +34,7 @@ La page qui s'ouvre correspond au repository GitHub (repo pour les intimes) du T
 
 <br>
 
-Pour la suite, il va falloir exécuter des programmes Python. 
+Pour la suite, il va falloir exécuter des programmes Python.
 
 Au lycée, l'environnement de travail (IDE) préinstallé est `EduPython` (pas génial, mais il fait le travail). Si vous avez un ordinateur personnel, je vous conseille d'installer [Pyzo](https://pyzo.org), car c'est l'IDE utilisé aux oraux de Centrale (Maths 2 et Physique 2). Mais le meilleur IDE pour un scientifique est probablement [Spyder](https://www.spyder-ide.org). Pour dépanner, vous pouvez utiliser la solution en ligne [Trinket](http://cordier-phychi.toile-libre.org/Info/trinket.html) ou Repl.it (en lien sur la repo GitHub du TP).
 
@@ -54,7 +54,7 @@ Toute modification dans le repository est sauvegardée par un **commit** (voir l
 
 >il faut aller dans l'onglet **Pull requests** du repository et cliquer sur **Feedback**. En bas, vous pouvez écrire une demande me mentionnant (**@Cordier-Info**) pour que je sois averti. Par exemple : "@Cordier-Info Pouvez-vous me valider l'exercice 2 ?"<br>
 >
->Il y a alors deux possibilités : 
+>Il y a alors deux possibilités :
 >
 >- soit je vous demande une modification par le même canal :hand::question:
 >- soit je valide :+1: :white_check_mark:
